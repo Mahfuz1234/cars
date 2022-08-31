@@ -1,0 +1,206 @@
+car_ID,symboling,CarName,fueltype,aspiration,doornumber,carbody,drivewheel
+1,3,alfa-romero giulia,gas,std,two,convertible,rwd
+2,3,alfa-romero stelvio,gas,std,two,convertible,rwd
+3,1,alfa-romero Quadrifoglio,gas,std,two,hatchback,rwd
+4,2,audi 100 ls,gas,std,four,sedan,fwd
+5,2,audi 100ls,gas,std,four,sedan,4wd
+6,2,audi fox,gas,std,two,sedan,fwd
+7,1,audi 100ls,gas,std,four,sedan,fwd
+8,1,audi 5000,gas,std,four,wagon,fwd
+9,1,audi 4000,gas,turbo,four,sedan,fwd
+10,0,audi 5000s (diesel),gas,turbo,two,hatchback,4wd
+11,2,bmw 320i,gas,std,two,sedan,rwd
+12,0,bmw 320i,gas,std,four,sedan,rwd
+13,0,bmw x1,gas,std,two,sedan,rwd
+14,0,bmw x3,gas,std,four,sedan,rwd
+15,1,bmw z4,gas,std,four,sedan,rwd
+16,0,bmw x4,gas,std,four,sedan,rwd
+17,0,bmw x5,gas,std,two,sedan,rwd
+18,0,bmw x3,gas,std,four,sedan,rwd
+19,2,chevrolet impala,gas,std,two,hatchback,fwd
+20,1,chevrolet monte carlo,gas,std,two,hatchback,fwd
+21,0,chevrolet vega 2300,gas,std,four,sedan,fwd
+22,1,dodge rampage,gas,std,two,hatchback,fwd
+23,1,dodge challenger se,gas,std,two,hatchback,fwd
+24,1,dodge d200,gas,turbo,two,hatchback,fwd
+25,1,dodge monaco (sw),gas,std,four,hatchback,fwd
+26,1,dodge colt hardtop,gas,std,four,sedan,fwd
+27,1,dodge colt (sw),gas,std,four,sedan,fwd
+28,1,dodge coronet custom,gas,turbo,two,sedan,fwd
+29,-1,dodge dart custom,gas,std,four,wagon,fwd
+30,3,dodge coronet custom (sw),gas,turbo,two,hatchback,fwd
+31,2,honda civic,gas,std,two,hatchback,fwd
+32,2,honda civic cvcc,gas,std,two,hatchback,fwd
+33,1,honda civic,gas,std,two,hatchback,fwd
+34,1,honda accord cvcc,gas,std,two,hatchback,fwd
+35,1,honda civic cvcc,gas,std,two,hatchback,fwd
+36,0,honda accord lx,gas,std,four,sedan,fwd
+37,0,honda civic 1500 gl,gas,std,four,wagon,fwd
+38,0,honda accord,gas,std,two,hatchback,fwd
+39,0,honda civic 1300,gas,std,two,hatchback,fwd
+40,0,honda prelude,gas,std,four,sedan,fwd
+41,0,honda accord,gas,std,four,sedan,fwd
+42,0,honda civic,gas,std,four,sedan,fwd
+43,1,honda civic (auto),gas,std,two,sedan,fwd
+44,0,isuzu MU-X,gas,std,four,sedan,rwd
+45,1,isuzu D-Max ,gas,std,two,sedan,fwd
+46,0,isuzu D-Max V-Cross,gas,std,four,sedan,fwd
+47,2,isuzu D-Max ,gas,std,two,hatchback,rwd
+48,0,jaguar xj,gas,std,four,sedan,rwd
+49,0,jaguar xf,gas,std,four,sedan,rwd
+50,0,jaguar xk,gas,std,two,sedan,rwd
+51,1,maxda rx3,gas,std,two,hatchback,fwd
+52,1,maxda glc deluxe,gas,std,two,hatchback,fwd
+53,1,mazda rx2 coupe,gas,std,two,hatchback,fwd
+54,1,mazda rx-4,gas,std,four,sedan,fwd
+55,1,mazda glc deluxe,gas,std,four,sedan,fwd
+56,3,mazda 626,gas,std,two,hatchback,rwd
+57,3,mazda glc,gas,std,two,hatchback,rwd
+58,3,mazda rx-7 gs,gas,std,two,hatchback,rwd
+59,3,mazda glc 4,gas,std,two,hatchback,rwd
+60,1,mazda 626,gas,std,two,hatchback,fwd
+61,0,mazda glc custom l,gas,std,four,sedan,fwd
+62,1,mazda glc custom,gas,std,two,hatchback,fwd
+63,0,mazda rx-4,gas,std,four,sedan,fwd
+64,0,mazda glc deluxe,diesel,std,four,sedan,fwd
+65,0,mazda 626,gas,std,four,hatchback,fwd
+66,0,mazda glc,gas,std,four,sedan,rwd
+67,0,mazda rx-7 gs,diesel,std,four,sedan,rwd
+68,-1,buick electra 225 custom,diesel,turbo,four,sedan,rwd
+69,-1,buick century luxus (sw),diesel,turbo,four,wagon,rwd
+70,0,buick century,diesel,turbo,two,hardtop,rwd
+71,-1,buick skyhawk,diesel,turbo,four,sedan,rwd
+72,-1,buick opel isuzu deluxe,gas,std,four,sedan,rwd
+73,3,buick skylark,gas,std,two,convertible,rwd
+74,0,buick century special,gas,std,four,sedan,rwd
+75,1,buick regal sport coupe (turbo),gas,std,two,hardtop,rwd
+76,1,mercury cougar,gas,turbo,two,hatchback,rwd
+77,2,mitsubishi mirage,gas,std,two,hatchback,fwd
+78,2,mitsubishi lancer,gas,std,two,hatchback,fwd
+79,2,mitsubishi outlander,gas,std,two,hatchback,fwd
+80,1,mitsubishi g4,gas,turbo,two,hatchback,fwd
+81,3,mitsubishi mirage g4,gas,turbo,two,hatchback,fwd
+82,3,mitsubishi g4,gas,std,two,hatchback,fwd
+83,3,mitsubishi outlander,gas,turbo,two,hatchback,fwd
+84,3,mitsubishi g4,gas,turbo,two,hatchback,fwd
+85,3,mitsubishi mirage g4,gas,turbo,two,hatchback,fwd
+86,1,mitsubishi montero,gas,std,four,sedan,fwd
+87,1,mitsubishi pajero,gas,std,four,sedan,fwd
+88,1,mitsubishi outlander,gas,turbo,four,sedan,fwd
+89,-1,mitsubishi mirage g4,gas,std,four,sedan,fwd
+90,1,Nissan versa,gas,std,two,sedan,fwd
+91,1,nissan gt-r,diesel,std,two,sedan,fwd
+92,1,nissan rogue,gas,std,two,sedan,fwd
+93,1,nissan latio,gas,std,four,sedan,fwd
+94,1,nissan titan,gas,std,four,wagon,fwd
+95,1,nissan leaf,gas,std,two,sedan,fwd
+96,1,nissan juke,gas,std,two,hatchback,fwd
+97,1,nissan latio,gas,std,four,sedan,fwd
+98,1,nissan note,gas,std,four,wagon,fwd
+99,2,nissan clipper,gas,std,two,hardtop,fwd
+100,0,nissan rogue,gas,std,four,hatchback,fwd
+101,0,nissan nv200,gas,std,four,sedan,fwd
+102,0,nissan dayz,gas,std,four,sedan,fwd
+103,0,nissan fuga,gas,std,four,wagon,fwd
+104,0,nissan otti,gas,std,four,sedan,fwd
+105,3,nissan teana,gas,std,two,hatchback,rwd
+106,3,nissan kicks,gas,turbo,two,hatchback,rwd
+107,1,nissan clipper,gas,std,two,hatchback,rwd
+108,0,peugeot 504,gas,std,four,sedan,rwd
+109,0,peugeot 304,diesel,turbo,four,sedan,rwd
+110,0,peugeot 504 (sw),gas,std,four,wagon,rwd
+111,0,peugeot 504,diesel,turbo,four,wagon,rwd
+112,0,peugeot 504,gas,std,four,sedan,rwd
+113,0,peugeot 604sl,diesel,turbo,four,sedan,rwd
+114,0,peugeot 504,gas,std,four,wagon,rwd
+115,0,peugeot 505s turbo diesel,diesel,turbo,four,wagon,rwd
+116,0,peugeot 504,gas,std,four,sedan,rwd
+117,0,peugeot 504,diesel,turbo,four,sedan,rwd
+118,0,peugeot 604sl,gas,turbo,four,sedan,rwd
+119,1,plymouth fury iii,gas,std,two,hatchback,fwd
+120,1,plymouth cricket,gas,turbo,two,hatchback,fwd
+121,1,plymouth fury iii,gas,std,four,hatchback,fwd
+122,1,plymouth satellite custom (sw),gas,std,four,sedan,fwd
+123,1,plymouth fury gran sedan,gas,std,four,sedan,fwd
+124,-1,plymouth valiant,gas,std,four,wagon,fwd
+125,3,plymouth duster,gas,turbo,two,hatchback,rwd
+126,3,porsche macan,gas,std,two,hatchback,rwd
+127,3,porcshce panamera,gas,std,two,hardtop,rwd
+128,3,porsche cayenne,gas,std,two,hardtop,rwd
+129,3,porsche boxter,gas,std,two,convertible,rwd
+130,1,porsche cayenne,gas,std,two,hatchback,rwd
+131,0,renault 12tl,gas,std,four,wagon,fwd
+132,2,renault 5 gtl,gas,std,two,hatchback,fwd
+133,3,saab 99e,gas,std,two,hatchback,fwd
+134,2,saab 99le,gas,std,four,sedan,fwd
+135,3,saab 99le,gas,std,two,hatchback,fwd
+136,2,saab 99gle,gas,std,four,sedan,fwd
+137,3,saab 99gle,gas,turbo,two,hatchback,fwd
+138,2,saab 99e,gas,turbo,four,sedan,fwd
+139,2,subaru,gas,std,two,hatchback,fwd
+140,2,subaru dl,gas,std,two,hatchback,fwd
+141,2,subaru dl,gas,std,two,hatchback,4wd
+142,0,subaru,gas,std,four,sedan,fwd
+143,0,subaru brz,gas,std,four,sedan,fwd
+144,0,subaru baja,gas,std,four,sedan,fwd
+145,0,subaru r1,gas,std,four,sedan,4wd
+146,0,subaru r2,gas,turbo,four,sedan,4wd
+147,0,subaru trezia,gas,std,four,wagon,fwd
+148,0,subaru tribeca,gas,std,four,wagon,fwd
+149,0,subaru dl,gas,std,four,wagon,4wd
+150,0,subaru dl,gas,turbo,four,wagon,4wd
+151,1,toyota corona mark ii,gas,std,two,hatchback,fwd
+152,1,toyota corona,gas,std,two,hatchback,fwd
+153,1,toyota corolla 1200,gas,std,four,hatchback,fwd
+154,0,toyota corona hardtop,gas,std,four,wagon,fwd
+155,0,toyota corolla 1600 (sw),gas,std,four,wagon,4wd
+156,0,toyota carina,gas,std,four,wagon,4wd
+157,0,toyota mark ii,gas,std,four,sedan,fwd
+158,0,toyota corolla 1200,gas,std,four,hatchback,fwd
+159,0,toyota corona,diesel,std,four,sedan,fwd
+160,0,toyota corolla,diesel,std,four,hatchback,fwd
+161,0,toyota corona,gas,std,four,sedan,fwd
+162,0,toyota corolla,gas,std,four,hatchback,fwd
+163,0,toyota mark ii,gas,std,four,sedan,fwd
+164,1,toyota corolla liftback,gas,std,two,sedan,rwd
+165,1,toyota corona,gas,std,two,hatchback,rwd
+166,1,toyota celica gt liftback,gas,std,two,sedan,rwd
+167,1,toyota corolla tercel,gas,std,two,hatchback,rwd
+168,2,toyota corona liftback,gas,std,two,hardtop,rwd
+169,2,toyota corolla,gas,std,two,hardtop,rwd
+170,2,toyota starlet,gas,std,two,hatchback,rwd
+171,2,toyota tercel,gas,std,two,hardtop,rwd
+172,2,toyota corolla,gas,std,two,hatchback,rwd
+173,2,toyota cressida,gas,std,two,convertible,rwd
+174,-1,toyota corolla,gas,std,four,sedan,fwd
+175,-1,toyota celica gt,diesel,turbo,four,sedan,fwd
+176,-1,toyota corona,gas,std,four,hatchback,fwd
+177,-1,toyota corolla,gas,std,four,sedan,fwd
+178,-1,toyota mark ii,gas,std,four,hatchback,fwd
+179,3,toyota corolla liftback,gas,std,two,hatchback,rwd
+180,3,toyota corona,gas,std,two,hatchback,rwd
+181,-1,toyota starlet,gas,std,four,sedan,rwd
+182,-1,toyouta tercel,gas,std,four,wagon,rwd
+183,2,vokswagen rabbit,diesel,std,two,sedan,fwd
+184,2,volkswagen 1131 deluxe sedan,gas,std,two,sedan,fwd
+185,2,volkswagen model 111,diesel,std,four,sedan,fwd
+186,2,volkswagen type 3,gas,std,four,sedan,fwd
+187,2,volkswagen 411 (sw),gas,std,four,sedan,fwd
+188,2,volkswagen super beetle,diesel,turbo,four,sedan,fwd
+189,2,volkswagen dasher,gas,std,four,sedan,fwd
+190,3,vw dasher,gas,std,two,convertible,fwd
+191,3,vw rabbit,gas,std,two,hatchback,fwd
+192,0,volkswagen rabbit,gas,std,four,sedan,fwd
+193,0,volkswagen rabbit custom,diesel,turbo,four,sedan,fwd
+194,0,volkswagen dasher,gas,std,four,wagon,fwd
+195,-2,volvo 145e (sw),gas,std,four,sedan,rwd
+196,-1,volvo 144ea,gas,std,four,wagon,rwd
+197,-2,volvo 244dl,gas,std,four,sedan,rwd
+198,-1,volvo 245,gas,std,four,wagon,rwd
+199,-2,volvo 264gl,gas,turbo,four,sedan,rwd
+200,-1,volvo diesel,gas,turbo,four,wagon,rwd
+201,-1,volvo 145e (sw),gas,std,four,sedan,rwd
+202,-1,volvo 144ea,gas,turbo,four,sedan,rwd
+203,-1,volvo 244dl,gas,std,four,sedan,rwd
+204,-1,volvo 246,diesel,turbo,four,sedan,rwd
+205,-1,volvo 264gl,gas,turbo,four,sedan,rwd
